@@ -1,7 +1,7 @@
 <h1>Životopis</h1>
 <h5>1.Osobni podatci</h4>
 
-![Slika](osobna_slika.jpg)
+![Slika](img/osobna_slika.jpg)
 
 * **Ime:** Ivan
 * **Prezime:** Vidović
