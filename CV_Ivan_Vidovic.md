@@ -73,6 +73,6 @@ Verzioniranje | Git, GitHub
 
 <h4>11. Ostalo</h4>
 
-* Sudjelovao na ERASMUS+ projektu gdje sam sam stekao određene kompetencije potrebne za internacionalnu komunikaciju i timski rad.
+* Sudjelovanje na ERASMUS+ projektu gdje sam sam stekao određene kompetencije potrebne za internacionalnu komunikaciju i timski rad.
 
 
