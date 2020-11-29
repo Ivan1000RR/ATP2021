@@ -1,6 +1,8 @@
 <h1>Životopis</h1>
 <h5>1.Osobni podatci</h4>
 
+[Slika](osobna_slika.jpg)
+
 * **Ime:** Ivan
 * **Prezime:** Vidović
 * **O meni:** Studiram informacijske tehnologije u Zadru i tražim posao u tom području za sjecanje radnog iskustva ili kao stalan posao
@@ -74,5 +76,3 @@ Verzioniranje | Git, GitHub
 <h4>11. Ostalo</h4>
 
 * Sudjelovanje na ERASMUS+ projektu gdje sam sam stekao određene kompetencije potrebne za internacionalnu komunikaciju i timski rad.
-
-
